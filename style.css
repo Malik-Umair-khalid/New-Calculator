@@ -1,0 +1,32 @@
+*{
+    padding: 0 !important;
+    margin: 0 !important;
+}
+.operatorBtn{
+    width: 23%;
+    height: 50px;
+}
+.numberBtn{
+    width: 30%;
+    height: 50px;
+    margin: 10px !important;
+}
+.isEqualbtn{
+    width: 100%;
+    height: 200px;
+    margin-top: 8px !important;
+}
+.myInput{
+    height: 70px !important;
+    text-align: right;
+    font-size: 30px !important;
+}
+.isEqualDiv{
+    padding-left: 6px !important;
+    margin-top: 10px !important;
+}
+.delbtn{
+    width: 100%;
+    height: 50px;
+    margin-bottom: 2px !important;
+}
